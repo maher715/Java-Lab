@@ -16,7 +16,7 @@ System.out.println("Department: " + department);
 System.out.println("Institution: " + institution);
 }
 public static void main(String[] args) {
-IDCard myID = new IDCard("Fardin", 12345, "Computer Science", "IIUC");
+IDCard myID = new IDCard("Maher", 17, "Computer Science", "IIUC");
 myID.showID();
 }
 }
